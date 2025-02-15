@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Rewinding Documentation",
   "colors": {
     "primary": "#1b31ff",
