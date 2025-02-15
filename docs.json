@@ -69,7 +69,8 @@
         {
           "anchor": "Get In Touch",
           "href": "https://rewinding.com/support",
-          "icon": "newspaper"
+          "icon": "inbox"
+          "iconType": "regular"
         }
       ]
     }
