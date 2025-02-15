@@ -57,18 +57,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Home",
+          "href": "https://rewinding.com",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "anchor": "Login",
+          "href": "https:/my.rewinding.com",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Get In Touch",
+          "href": "https://rewinding.com/support",
           "icon": "newspaper"
         }
       ]
@@ -96,6 +96,7 @@
       "x": "https://x.com/mintlify",
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
+      "instagram": "https://www.instagram.com/rewinding_rx/"
     }
   }
 }
